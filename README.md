@@ -1,5 +1,4 @@
-# kotelezo_program
-Open Library API
+# Open Library API
 
 Ezzel a Python programmal ISBN szám alapján lehet könyvet keresni. Kulcs képességek: API használat, JSON, fájlba írás.
 
